@@ -1,10 +1,10 @@
-# DTV-HTML5
+# DTV-FLASH-AS3
 
-HTML5 video player powerd by **DevTrip Video** developers and its' contributers
+Flash AS 3 (AVM2) video player powerd by **DevTrip Video** developers and its' contributers
 
 ## Goal
 
-This packages provide a reusable video player component, which can easily integrated with any HTML based site. It generates/provide HTML 5 video playerwith user browser.
+This packages provide a reusable video player component, which can easily integrated with any HTML based site. It generates/provide Flash video player with user browser.
 
 ## Packages 
 
