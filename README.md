@@ -2,6 +2,8 @@
 
 Flash AS 3 (AVM2) video player powerd by **DevTrip Video** developers and its' contributers
 
+>`[Need independent contributors and Investors for TBD section.]`
+
 ## Goal
 
 This packages provide a reusable video player component, which can easily integrated with any HTML based site. It generates/provide Flash video player with user browser.
